@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Avneet Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
