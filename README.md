@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avneet-singh-rainu&label=Profile%20views&color=0e75b6&style=flat" alt="avneet-singh-rainu" /> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Reactjs** **nginx**
 
 - 💬 Ask me about **React Nodejs Java Mongodb Mysql**
 
