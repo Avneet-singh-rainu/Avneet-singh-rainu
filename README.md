@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React Nodejs Java Mongodb Mysql**
 
-- 📫 How to reach me **avneetsingh.89979@gmail.com**
+- 📫 How to reach me **avneetsingh.8979@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
