@@ -38,8 +38,6 @@ I am a passionate **Full-Stack Developer** from **India** 🇮🇳, specializing
 ---
 
 ### 📊 GitHub Stats
-![Avneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avneet-singh-rainu&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avneet-singh-rainu&layout=compact&theme=radical)
 
 
