@@ -1,20 +1,59 @@
-<h1 align="center">Hi 👋, I'm Avneet Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+## Hi there, I'm Avneet Singh! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avneet-singh-rainu&label=Profile%20views&color=0e75b6&style=flat" alt="avneet-singh-rainu" /> </p>
+### 🚀 About Me
+I am a passionate **Full-Stack Developer** from **India** 🇮🇳, specializing in building scalable applications and working with modern web technologies.
 
-- 🌱 I’m currently learning **nginx**
+- 🔭 I’m currently working on **ASP.NET Web API**
+- 💬 Ask me about **React, Node.js, Java, MongoDB, MySQL, ASP.NET, and Rust**
 
-- 💬 Ask me about **React Nodejs Java Mongodb Mysql**
+---
 
-- 📫 How to reach me **avneetsingh.8979@gmail.com**
+### 📫 How to reach me
+- 📧 Email: **avneetsingh.8979@gmail.com**
+- 🌐 LinkedIn: [Avneet Singh](https://www.linkedin.com/in/avneetsingh5576)
+- 💻 GitHub: [Avneet-singh-rainu](https://github.com/Avneet-singh-rainu)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://nextjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original-wordmark.svg" alt="next" width="40" height="40"/> </a><a href="https://nextjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🛠️ Tech Stack
+#### 🌐 Frontend:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avneet-singh-rainu&show_icons=true&locale=en&layout=compact" alt="avneet-singh-rainu" /></p>
+#### 💻 Backend:
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+
+#### 🗄️ Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🔧 DevOps & Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Avneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avneet-singh-rainu&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avneet-singh-rainu&layout=compact&theme=radical)
+
+---
+
+### 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Avneet-singh-rainu&theme=onedark)
+
+---
+
+### 🚀 Recent Projects
+- **[EZbeds](https://github.com/Avneet-singh-rainu/EZbeds)** - Real-time hospital bed management system (MERN Stack)
+- **[EatCode.io](https://github.com/Avneet-singh-rainu/EatCode.io)** - A teaching & learning platform with an online code editor
+- **[Event Management System](https://github.com/Avneet-singh-rainu/Event-Management-System)** - Vendor & user portals for event management
+- **[Electricity Billing System](https://github.com/Avneet-singh-rainu/Electricity-Billing-System)** - Bill generation & management system
+
+Feel free to check out my repositories for more projects! 😊
 
