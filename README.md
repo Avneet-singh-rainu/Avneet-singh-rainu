@@ -42,12 +42,6 @@ I am a passionate **Full-Stack Developer** from **India** 🇮🇳, specializing
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avneet-singh-rainu&layout=compact&theme=radical)
 
----
-
-### 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Avneet-singh-rainu&theme=onedark)
-
----
 
 ### 🚀 Recent Projects
 - **[EZbeds](https://github.com/Avneet-singh-rainu/EZbeds)** - Real-time hospital bed management system (MERN Stack)
