@@ -44,10 +44,10 @@ I'm a dynamic **Full-Stack Developer** from **India** 🇮🇳, specialized in b
 - **Technologies**: Online code editor, full-stack development
 - **Link**: [View Project](https://github.com/Avneet-singh-rainu/EatCode.io)
 
-### 3. Event Management System 🎉
+### 3. EStudent Management System 🎉
 - **Description**: Comprehensive event coordination platform
 - **Technologies**: Full-stack web application
-- **Link**: [View Project](https://github.com/Avneet-singh-rainu/Event-Management-System)
+- **Link**: [View Project](https://github.com/Avneet-singh-rainu/EStudentWebApi/tree/master)
 
 ## 📬 Connect With Me
 - **Email**: [avneetsingh.8979@gmail.com](mailto:avneetsingh.8979@gmail.com)
